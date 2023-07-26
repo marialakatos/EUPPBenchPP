@@ -3,6 +3,7 @@ Title: Post-processing of WMO-reported visibility ensemble forecasts of the EUPP
 Version: 0.0.0.9000
 Authors@R: 
     person("Maria  ", "Nagy-Lakatos", , "marcsilakatos1@gmail.com", role = c("cre"))
+    person("Sandor  ", "Baran", "baran.sandor@inf.unideb.hu", role = c("ths"))
 Description: Post-processing of WMO-reported visibility ensemble forecasts of the EUPPBench dataset.
 License: use_mit_license()
 Encoding: UTF-8
