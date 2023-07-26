@@ -30,7 +30,7 @@ Variants:
 
 |      | Regional training | Local training | Semi-local training |
 |:----:|:-----------------:|:--------------:|:-------------------:|
-| POLR |       POLR-R: `polr.R`      |     POLR-L: `polrLoc.R`   |        POLR-C:    `polrGroup.R`      |
+| POLR |       POLR-R: `polr.R`      |     POLR-L: `polrLoc.R ()`   |        POLR-C:    `polrGroup.R`      |
 |  MLP |       MLP-R: `mlp.R`        |      MLP-L: `mlpLoc.R`      |        MLP-C:  `mlpGroup.R`       |
 
 
@@ -39,6 +39,18 @@ Variants:
 `verif_scores.R`: Verification scores for the evaluation of forecast skill 
 
 `utils.R`: Utility functions
+
+## Additional information
+
+This package is still a work in progress the list of fully implemented scripts are countinously updated: 
+
+- [x] `polr.R`
+- [ ] `polrLoc.R`
+- [x] `polrGroup.R`
+- [x] `mlp.R` 
+- [x] `mlpLoc.R`
+- [x] `mlpGroup.R`
+
 
 [^1]: Demaeyer, J., Bhend, J., Lerch,
   S., Primo, C., Van Schaeybroeck, B., Atencia, A., Ben Bouallègue, Z.,
