@@ -15,8 +15,9 @@ Y = {0, 100, 200, . . . , 4900, 5000, 6000, 7000, . . . , 29000, 30000, 35000, 4
 reported value.
 + Time period:  2017 – 2018 initialized at 0000 UTC
 - forecast horizon of 120 h and temporal resolution of 6 h
-* 42 SYNOP stations in Germany and France 
+* 42 SYNOP stations in Germany and France:
 
+<center><img src="https://github.com/marialakatos/EUPPBenchPP/assets/47451357/0ad0cd24-cf46-4f1f-9c64-a657b01aaf4d" alt="map" style="width:20%" title = "Location of EUPPBench dataset SYNOP stations"></center> 
 
 ## Applied models
 
